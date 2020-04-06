@@ -10,10 +10,14 @@ Notes on the coronavirus pandemic of 2019-2020
 - https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
 
 ### Maps, case trackers, etc.
-- https://covidtracker.5lab.co/en: Thailand: street-level detail
+- https://covidtracker.5lab.co/en - Thailand: street-level detail
 
 ### News archives
-- https://github.com/2019ncovmemory/nCovMemory: China-focused
+- https://github.com/2019ncovmemory/nCovMemory - China-focused
+
+### Twitter accounts
+- https://twitter.com/michaeljburry - of The Big Short fame
+  - [source](https://www.bnnbloomberg.ca/big-short-s-michael-burry-joins-twitter-with-pleas-to-end-covid-19-lockdown-1.1417820)
 
 ### R&D
 - [World Health Organization COVID-19 R&D Blueprint](https://www.who.int/blueprint/priority-diseases/key-action/novel-coronavirus/en/)
