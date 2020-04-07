@@ -11,6 +11,7 @@ Notes on the coronavirus pandemic of 2019-2020
 
 ### Maps, case trackers, etc.
 - https://covidtracker.5lab.co/en - Thailand: street-level detail
+- https://github.com/nytimes/covid-19-data
 
 ### News archives
 - https://github.com/2019ncovmemory/nCovMemory - China-focused
