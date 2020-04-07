@@ -3,6 +3,7 @@ Notes on the coronavirus pandemic of 2019-2020
 
 ### Directories and indexes
 - https://covidbase.com/
+- http://open-source-covid-19.weileizeng.com/
 - https://www.archiveteam.org/index.php?title=Coronavirus
 - https://en.wikipedia.org/wiki/Category:2019%E2%80%9320_coronavirus_pandemic
 
@@ -10,6 +11,9 @@ Notes on the coronavirus pandemic of 2019-2020
 - https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic
 
 ### Maps, case trackers, etc.
+- https://www.coronatracker.com/
+- https://chschoenenberger.shinyapps.io/covid19_dashboard/
+- https://covid19.health/
 - https://covidtracker.5lab.co/en - Thailand: street-level detail
 - https://github.com/nytimes/covid-19-data
   - cf. https://twitter.com/marclacey/status/1243511548770992128
