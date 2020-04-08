@@ -22,6 +22,7 @@ Notes on the coronavirus pandemic of 2019-2020
 - https://github.com/2019ncovmemory/nCovMemory - China-focused
 
 ### Twitter accounts
+- https://twitter.com/PeterKolchinsky - RA Capital / TechAtlas / Harvard biotech club
 - https://twitter.com/michaeljburry - of The Big Short fame ([source](https://www.bnnbloomberg.ca/big-short-s-michael-burry-joins-twitter-with-pleas-to-end-covid-19-lockdown-1.1417820))
 
 ### R&D
