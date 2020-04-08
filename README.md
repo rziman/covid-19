@@ -28,6 +28,7 @@ Notes on the coronavirus pandemic of 2019-2020
 - [World Health Organization COVID-19 R&D Blueprint](https://www.who.int/blueprint/priority-diseases/key-action/novel-coronavirus/en/)
   - [A coordinated Global Research Roadmap: 2019 Novel Coronavirus (March 2020)](https://www.who.int/blueprint/priority-diseases/key-action/Coronavirus_Roadmap_V9.pdf?ua=1)
   - https://www.ukcdr.org.uk/funding-landscape/covid-19-research-project-tracker/
+  - [COVID-19 Pathways - Google Docs](https://docs.google.com/document/d/1T61ZVn9r6qoq5kIp5TRjLLI583S0C-IqNu73UWZBZXU/)
 
 ## AI/ML
 - Mapping the Landscape of Artificial Intelligence Applications Against COVID-19  
